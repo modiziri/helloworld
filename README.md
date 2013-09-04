@@ -9,7 +9,7 @@
 
 ## 版本库地址
 
-支持三种访问协议： 
+支持三种访问协议：
 
 * HTTP协议: `https://github.com/gotgithub/helloworld.git` 。
 * Git协议: `git://github.com/gotgithub/helloworld.git` 。
